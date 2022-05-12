@@ -12,4 +12,4 @@ console.log(res)
 Os dois modos funcionam
 */
 
-console.log(parimpar(24))
+console.log(parimpar(26))
